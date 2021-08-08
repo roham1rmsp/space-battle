@@ -1,7 +1,7 @@
 # space battle
 
 In this game we have two spaceships that fighting with each other.
-for play this game you should prepare something that I mentioned below.
+To play this game you should prepare something that I mentioned below.
 
 ## steps
 
@@ -22,5 +22,4 @@ simply run the _main.py_ and enjoy the game.
 ## controllers
 
 you can control the left side spaceship by pressing **w, a, s, d** and you can also control the right side spaceship by pressing **Arrow Keys**. to shoot with the left side spaceship you should press **Left CTRL** and to shoot with right spaceship you should press **Right CTRL**.
-In this game we have two spaceships that are fighting each other
 
