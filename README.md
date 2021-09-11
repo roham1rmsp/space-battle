@@ -23,4 +23,3 @@ simply run the _main.py_ and enjoy the game.
 
 you can control the left side spaceship by pressing **w, a, s, d** and you can also control the right side spaceship by pressing **Arrow Keys**. to shoot with the left side spaceship you should press **Left CTRL** and to shoot with right spaceship you should press **Right CTRL**.
 
-ValueError: check_hostname requires server_hostname
